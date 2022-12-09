@@ -1,0 +1,26 @@
+
+<thumbnail>Capa</thumbnail>
+<fanart>Capa_De_Fundo</fanart>
+<info>SINOPOSE</info>
+<genre>GÊNERO</genre>
+<year>2021</year>
+</item>
+
+<item>
+<title>[B]editar[/B]</title>
+<utube>ID</utube>
+<thumbnail>Capa</thumbnail>
+<fanart>Capa_De_Fundo</fanart>
+<info>SINOPOSE</info>
+<genre>GÊNERO</genre>
+<year>2021</year>
+</item>
+
+<item>
+<title>[B]NOME DO FILME-(ANO DO FILME)-(RESOLUÇÃO DO FILME)-DUBLADO OU LEGENDADO[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Gu7l4aPCLqs2bQQgv7pX87wedZ3x5pIz/view?usp=drivesdk</link>
+<thumbnail>THUMBNAIL DO FILME</thumbnail>
+<fanart>FANART DO FILME</fanart>
+<info>TEXTO DE SINOPSE.</info>
+
+</item>
